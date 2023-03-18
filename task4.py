@@ -9,5 +9,6 @@
 60 -> 10  40  10
 '''
 
+
 s = int(input())
 print(int(s / 6), int(s * 2 / 3), int(s / 6))
